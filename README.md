@@ -7,8 +7,8 @@ This website tells what the current time and show which time block is past, pres
 Don't believe me? Give this website a try! <br>
 
 ## Links
-**Deployed Link:** [Link to the deployed website!]((https://arunkaushal84.github.io/Scheduler/)) <br>
-**Github Repo:** [Link to Github repository!](https://github.com/Heaveness/business-day-scheduler) <br>
+**Deployed Link:** [Link to the deployed website!][(https://arunkaushal84.github.io/Scheduler/)] <br>
+**Github Repo:** [Link to Github repository!][(https://github.com/Arunkaushal84/Scheduler/blob/main/README.md)]<br>
 
 ## Previews
 **Website:** <br>
