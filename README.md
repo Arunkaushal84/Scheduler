@@ -8,7 +8,7 @@ Don't believe me? Give this website a try! <br>
 
 ## Links
 **Deployed Link:** [Link to the deployed website!][(https://arunkaushal84.github.io/Scheduler/)] <br>
-**Github Repo:** [Link to Github repository!][(https://github.com/Arunkaushal84/Scheduler/blob/main/README.md)]<br>
+**Github Repo:** [Link to Github repository!][(https://github.com/Arunkaushal84/Scheduler)]<br>
 
 ## Previews
 **Website:** <br>
